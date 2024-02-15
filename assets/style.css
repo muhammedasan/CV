@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body header main footer {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1160px;
+}
+body {
+  border: solid 1px #782221;
+}
+main {
+  display: flex;
+}
+main aside {
+  width: 25%;
+}
+main #exfr {
+  width: 75%;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  img {
+    max-width: 20px;
+    max-height: 20px;
+  }
+}
+
+address {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 30px;
+}

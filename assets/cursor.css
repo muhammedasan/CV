@@ -1,17 +1,8 @@
 #top img:hover {
   cursor: zoom-in;
 }
-#overlay #top img {
-  max-width: 90%;
-  max-height: 90%;
-}
-
-#overlay:target {
-  display: flex;
-}
 #exfr h3:hover {
-  border-color: #782221;
-  border-left-width: 10px;
+  border-right: 10px solid #782221;
 }
 #icon img:hover {
   opacity: 80%;

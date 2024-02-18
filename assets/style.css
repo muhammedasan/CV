@@ -28,6 +28,7 @@ main aside {
   padding: 20px 30px 0 0;
 }
 main #exfr {
+  width: 75%;
   padding: 20px 20px 20px 30px;
 }
 #top h1,
@@ -56,18 +57,21 @@ h3 {
 aside p {
   padding: 20px 50px 20px 20px;
 }
+aside h3 {
+  padding-left: 20px;
+}
 div h4 {
   padding: 20px 0;
 }
 div p {
-  padding: 0 0 20px 0;
+  padding-bottom: 20px;
 }
 div ul {
-  padding: 0 0 0 50px;
+  padding-left: 50px;
 }
 #formation,
 #skills {
-  padding: 50px 0 0 0;
+  padding-top: 50px;
 }
 #language ul,
 #interest ul {
@@ -75,4 +79,20 @@ div ul {
 }
 #skills ul {
   padding: 20px 0 20px 50px;
+}
+footer p {
+  padding: 20px;
+}
+#icon {
+  padding-top: 20px;
+}
+address a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+#about p {
+  text-indent: 30px;
+  text-align: justify;
 }

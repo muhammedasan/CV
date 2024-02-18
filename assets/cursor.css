@@ -1,0 +1,12 @@
+#top img:hover {
+  cursor: zoom-in;
+}
+#exfr h3:hover {
+  border-right: 10px solid #782221;
+}
+#icon img:hover {
+  opacity: 80%;
+}
+address a:hover {
+  text-decoration: underline;
+}

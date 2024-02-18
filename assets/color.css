@@ -13,3 +13,6 @@ h3 {
 footer {
   background-color: #782221;
 }
+#exfr h3 {
+  border-left: 10px solid #782221;
+}
